@@ -48,10 +48,10 @@ Before executing the bulk ingestion engine, your custom application must be gran
 
 3. Configure your environmental keys. Create a `.env` file in the root folder:
    ```env
-  # Your store subdomain only (e.g., if your site is store123.myshopify.com, input: store123)
+  Your store subdomain only (e.g., if your site is store123.myshopify.com, input: store123)
    SHOPIFYURL_LIVE="your-store-subdomain"
    
-   # Secure Access Token
+   Secure Access Token
    SHOPIFYACCESSTOKEN_LIVE="shpat_your_secure_oauth_token"
    ```
 
