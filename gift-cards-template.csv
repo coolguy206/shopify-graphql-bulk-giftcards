@@ -1,0 +1,4 @@
+code,initial_value,balance,currency,expires_on,enabled,note
+SAMPLECODE12345,100.00,100.00,USD,2027-12-31T00:00:00Z,true,Holiday Campaign Promo
+SAMPLECODE67890,50.50,50.50,USD,,true,Customer Loyalty Reward
+VIPGIFT2026,250.00,250.00,USD,2026-11-30T00:00:00Z,true,Influencer Outreach

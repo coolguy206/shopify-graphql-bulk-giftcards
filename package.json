@@ -1,0 +1,13 @@
+{
+  "name": "shopify-graphql-bulk-giftcards",
+  "version": "1.0.0",
+  "description": "A high-performance Node.js data ingestion tool using the Shopify Admin GraphQL API to process and create bulk gift cards from CSV records.",
+  "main": "importer.js",
+  "scripts": {
+    "start": "node importer.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^17.4.2"
+  }
+}
